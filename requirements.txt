@@ -1,5 +1,5 @@
 pandas
 sql-metadata
 snowflake-connector-python
-snowflake-snowpark-python
+snowflake-snowpark-python==0.8.0
 streamlit
