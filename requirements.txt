@@ -1,4 +1,5 @@
 pandas
 sql-metadata
-snowpark-python
+snowflake-connector-python
+snowflake-snowpark-python
 streamlit
