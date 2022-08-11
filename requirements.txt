@@ -1,4 +1,4 @@
 pandas
 sql-metadata
-snowflake-snowpark-python
+snowflake-snowpark-python==0.8.0
 streamlit
