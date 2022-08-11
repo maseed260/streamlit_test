@@ -1,0 +1,4 @@
+pandas
+sql-metadata
+snowflake-snowpark-python
+streamlit
